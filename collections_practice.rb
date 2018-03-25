@@ -42,7 +42,7 @@ array.collect do |append|
   if array[1]==append
     append
   else 
-    word + "s"
+    append + "s"
 end
 end
 end
