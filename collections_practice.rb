@@ -44,6 +44,7 @@ array.collect do |append|
   else 
     word + "s"
 end
+end
   
   
   
